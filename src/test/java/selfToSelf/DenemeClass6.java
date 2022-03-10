@@ -57,7 +57,7 @@ public class DenemeClass6 extends DummyBaseUrl {
         Assert.assertEquals("Garrett Winters", json.getString("data[1].employee_name"));
 
 
-        // "21", "23", "61" yaşlarında employeeler olduğunu test edin
+        // "21", "23", "61" yaşlarında employee ler olduğunu test edin
         List<Integer> list = new ArrayList<>();
         list.add(21);
         list.add(23);
